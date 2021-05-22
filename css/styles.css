@@ -1,0 +1,98 @@
+/*** Tags ***/
+body {
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  background-color: hsl(0, 0%, 98%);
+  color: hsl(229, 6%, 66%);
+}
+
+h2 {
+  margin-left: 30px;
+  margin-top: 30px;
+  margin-bottom: 0px;
+  color: hsl(234, 12%, 34%);
+}
+
+p {
+  margin-left: 30px;
+  margin-top: 5px;
+}
+
+img {
+  position: absolute;
+  margin-left: 300px;
+  margin-top: 25px;
+}
+
+.top-container {
+  margin: 100px auto 70px auto;
+  text-align: center;
+}
+
+/*** Heading Classes ***/
+.bottom-heading {
+  margin-top: 0px;
+  font-weight: 700;
+  color: hsl(234, 12%, 34%);
+}
+
+.top-heading {
+  font-weight: 200;
+  margin-bottom: 0px;
+  color: hsl(234, 12%, 34%);;
+}
+
+/*** Team Builder Div **/
+.team-builder {
+  border-top: thick solid hsl(0, 78%, 62%);
+  border-radius: 5px;
+  box-shadow: 0px 20px 60px 0px hsl(229, 6%, 66%);
+  width: 390px;
+  height: 260px;
+  position:relative;
+  left: 35%;
+  bottom: 250px;
+}
+
+/*** Supervisor Div ***/
+.supervisor {
+  border-top: thick solid hsl(180, 62%, 55%);
+  border-radius: 5px;
+  box-shadow: 0px 20px 60px 0px hsl(229, 6%, 66%);
+  width: 390px;
+  height: 260px;
+  position:relative;
+  left:2%;
+  top: 180px;
+
+}
+
+
+
+/*** Karma Div ***/
+.karma {
+  border-top: thick solid hsl(34, 97%, 64%);
+  border-radius: 5px;
+  box-shadow: 0px 20px 60px 0px hsl(229, 6%, 66%);
+  width: 390px;
+  height: 260px;
+  position: relative;
+  left: 35%;
+  bottom: 200px;
+
+
+}
+
+/*** Calculator div ***/
+.calculator{
+  border-top: thick solid hsl(212, 86%, 64%);
+  border-radius: 5px;
+  box-shadow: 0px 20px 60px 0px hsl(229, 6%, 66%);
+  width: 390px;
+  height: 260px;
+  position: relative;
+  left: 68%;
+  bottom: 610px;
+
+
+}
